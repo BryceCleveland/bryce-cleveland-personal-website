@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css?family=Play');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+html, body {
+	height: 100%;
+}
+
+p {
+	font-family: 'Lato', sans-serif;
+	color: #3d3d3d;
+}
+
+body {
+  line-height: 1.45em;
+  padding-top: 50px;
+}
+
+section {
+	line-height: 1.5em;
+
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Play', sans-serif;
+	color: #3d3d3d;
+}
+
+.logo {
+	font-size: 2.3em !important;
+	font-family: 'Play';
+	text-shadow: 0px 0px 1px black;
+	color: #4d4d4d !important;
+}
+
+header a:link {
+	transition-duration: 0.18s;
+}
+
+header a:hover {
+	transition-duration: 0.18s;
+	color: white !important;
+	text-shadow: 1px 1px 3px black;
+}
+
+.marketing a:link {
+	transition-duration: 0.18s;
+}
+
+.marketing a:hover {
+	transition-duration: 0.18s;
+	color: white !important;
+	text-shadow: 1px 1px 3px black;
+}
+
+.marketing {
+	margin-top: 10px;
+	padding: 0 3%;
+}
+
+.marketing a {
+	text-decoration: none;
+	color: #3d3d3d;
+}
+
+img {
+	max-width: 100%;
+	margin-bottom: 2%;
+	margin-top: 1%;
+	border-radius: 2px;
+}
+
+.navbar-custom {
+	background-color: #f6f6f6;
+	padding-bottom: 0px;
+}
+
+ul li a {
+	color: #4d4d4d !important;
+	font-size: 1.1em;
+	font-family: 'Play';
+	font-size: 1.3em;
+}
+
+.activelink {
+	border-left: 3px solid #742b2b;
+	border-right: 3px solid #742b2b;
+	}
+
+section h3 {
+	font-weight: italic !important;
+}
+
+.foot {
+	background-color: grey;
+	padding-top: 1%;
+	border-top: 1px solid black;
+}
+
+.footlink {
+	color: white;
+}
+
+ .footlink a {
+ 	color: black;
+ }
+
+ .footlink, .footlink a {
+ 	font-size: 1em;
+ }
+
+ .footlink ul li {
+ 	display: inline;
+ }
+
+ .footlink ul li a {
+ 	margin: 0 5%;
+ }
+
+ .parallax {
+    /* The image used */
+    background-image: url('../img/parallax3.jpg');
+
+    /* Full height */
+    height: 72%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+button {
+	background-color: #4d4d4d !important;
+}
+
+.imagerounded {
+	border-radius: 10% 10%;
+	border: 3px solid black;
+	max-height: 100%;
+}
+
+.aboutme {
+	font-size: 18px;
+	margin-top: 3%;
+}
+
+
+/* Social Link CSS */
+
+.banner {
+    margin-top: 3%;
+    padding: 35px 0;
+    color: #f8f8f8;
+     background-image: url('../img/skyline.png');
+    background-position: 50% 85%;
+    background-repeat: repeat-x;
+    background-size: 50%;
+    border-top: 1px solid grey;
+}
+
+.banner h2 {
+    margin: 0;
+    font-size: 3em;
+}
+
+.banner ul {
+    margin-bottom: 0;
+}
+
+/*
+
+@media(max-width:1199px) {
+    ul.banner-social-buttons {
+        float: left;
+        margin-top: 15px;
+    }
+}
+
+@media(max-width:767px) {
+    .banner h2 {
+        margin: 0;
+        text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+        font-size: 3em;
+    }
+
+    ul.banner-social-buttons > li {
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.banner-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+}
+/*
+
+
+
+
+
+
