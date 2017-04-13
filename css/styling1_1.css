@@ -145,6 +145,17 @@ button {
 	margin-top: 3%;
 }
 
+.projectarea {
+    margin-bottom: 8%;
+    padding: 1.5%;
+}
+
+.projectarea a:hover {
+    font-style: oblique;
+    text-decoration: none;
+    color: white;
+    transition-duration: 0.5s;
+}
 
 /* Social Link CSS */
 

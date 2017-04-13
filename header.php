@@ -9,8 +9,6 @@
     
 
     <title>Bryce Cleveland</title>
-
-    <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/styling1_1.css" rel="stylesheet">
     <link rel="icon" href="favicon.ico">
@@ -39,7 +37,7 @@
           <ul class="nav navbar-nav navbar-right">
             <li><a href="about.php">About Me</a></li>
             <li><a href="#">Contact</a></li>
-            <li><a href="#">Projects</a></li>
+            <li><a href="projects.php">Projects</a></li>
             <li><a href="http://clevr.tech/blog/">Blog</a></li>
           </ul>
         </div>
