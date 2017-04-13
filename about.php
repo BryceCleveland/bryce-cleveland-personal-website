@@ -13,7 +13,7 @@
 
       <p>Eventually I realized that a career in web development would suit me very well. Not only is it incredibly fun
       and interesting to me, it also has a better future than my previous career path. Be sure to check out my personal
-      blog if you really want to get to know me, and also check out my projects on GitHub!</p>
+      blog if you really want to get to know me, and also check out my projects on GitHub! Testing</p>
 
       <a href="#" class="btn btn-default btn-lg">Download Resume</a>
     </div>
