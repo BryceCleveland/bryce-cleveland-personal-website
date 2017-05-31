@@ -17,7 +17,6 @@ body {
 
 section {
 	line-height: 1.5em;
-
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -141,7 +140,7 @@ button {
 }
 
 .aboutme {
-	font-size: 18px;
+	font-size: 17px;
 	margin-top: 3%;
 }
 
@@ -150,11 +149,8 @@ button {
     padding: 1.5%;
 }
 
-.projectarea a:hover {
-    font-style: oblique;
-    text-decoration: none;
-    color: white;
-    transition-duration: 0.5s;
+.projectarea a:hover  {
+
 }
 
 /* Social Link CSS */

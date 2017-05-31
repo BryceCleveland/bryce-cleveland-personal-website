@@ -3,7 +3,7 @@
       <div class="row">
 
         <div class="col-xs-6 col-lg-5 col-lg-offset-1 footlink">
-          © 2017 Copyright: <a href="https://www.clevr.tech">clever.tech</a>
+          © 2017 Copyright: clevr.tech
         </div>
 
         <div class="col-xs-6 col-lg-5 footlink">
@@ -20,7 +20,7 @@
 
 
     <script src="js/jquery-2.1.4.min.js"></script>
-    <script src="js/bootstrap.min.js"</script>
+    <script src="js/bootstrap.min.js"></script>
     <script src="js/script.js"></script>
 
     <script>
