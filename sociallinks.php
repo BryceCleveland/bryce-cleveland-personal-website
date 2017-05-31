@@ -15,11 +15,11 @@
                         </li>
 
                         <li>
-                            <a href="#" class="btn btn-default btn-lg">Blog</a>
+                            <a href="http://clevr.tech/blog/" class="btn btn-default btn-lg">Blog</a>
                         </li>
 
                         <li>
-                            <a href="#" class="btn btn-default btn-lg">About</a>
+                            <a href="about.php" class="btn btn-default btn-lg">About</a>
                         </li>
                     </ul>
                 </div>
