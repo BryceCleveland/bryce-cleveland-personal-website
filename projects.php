@@ -1,4 +1,5 @@
 <?php include 'header.php';?>
+<title>Bryce Cleveland - Web Projects</title>
 
 <div class="container">
   <div class="row">
@@ -8,54 +9,57 @@
         <h1>Here Are My Projects</h1>
         <p>Here i've listed all of my projects. These projects are all completely open source, and can be downloaded on GitHub</p>
     </div>
-
-    <div class="col-xs-6 col-sm-4 col-md-3 project">
-    <a>
-      <h3>Simple Carousel</h3>
-      <img src="img/cube.png"></img>
-    </a>
-      <p>
-        This was my first jQuery project. I chose to build this with jQuery because I wanted to learn more about
-        animations. Althought there are tons of carousels out there, I really wanted to build my own.
-        <br>
-        <br>
-        Find on Github: <a>Link Goes Here</a>
-      </p>
-    </div>
       
-    <div class="col-xs-6 col-sm-4 col-md-3 project">
+    <div class="col-xs-12 col-md-6 col-lg-3 project">
     <a href="ball.php">
-      <h3>Crazy Ball</h3>
-      <img src="img/ballGame.png"></img>
+      <h3>Crazy Clicker</h3>
+      <img src="img/ballGame.png" alt="A screenshot of the Bryce Cleveland's Crazy Clicker web project"></img>
     </a>
       <p>
         This was my first Javascript project that was built without any outside help. The backbone of this project
         is the Math().random function, which was used to determine the next location of the ball.
         <br>
         <br>
-        Find on GitHub: <a>Link Goes Here</a>
+        <a href="https://github.com/BryceCleveland/crazy-ball">View on GitHub</a>
+      </p>
+    </div>
+    
+    <div class="col-xs-12 col-md-6 col-lg-3 project">
+    <a href="crazypong.php">
+      <h3>Crazy Pong</h3>
+      <img src="img/crazyPong.jpg" alt="A screenshot of Bryce Cleveland's Crazy Pong web project"></img>
+    </a>
+      <p>
+        The goal of this project was to learn of the manipluate objects on the DOM with keyboard inputs. 
+        I also learned how to detect for object collisions and how to build very simple AI.
+        This was built using vanilla Javascript
+        <br>
+        <br>
+        <a href="https://github.com/BryceCleveland/crazy-pong">View on GitHub</a>
       </p>
     </div>
       
-    <div class="col-xs-6 col-sm-4 col-md-3 project">
-    <a>
+    <div class="col-xs-12 col-md-6 col-lg-3 project">
+    <a href="calculator.php">
       <h3>Calculator</h3>
-      <img src="img/fiesta.jpg"></img>
+      <img src="img/calculator.jpg" alt="A screenshot of Bryce Cleveland's Calculator web project"></img>
     </a>
-            <p>
-        Project 3 description goes in here. It will describe the purpose of the project
-        This description will also include any skills I learned from it, as well as other information.
+        <p>
+          This was my first Javascript project ever, but was built with lots of outside help.
+          <br>
+          <br>
+          <a href="https://github.com/BryceCleveland/simple-calculator">View on GitHub</a>
       </p>
     </div>
-      
-    <div class="col-xs-6 col-sm-4 col-md-3 project">
-    <a>
-      <h3>Wordpress Theme</h3>
-      <img src="img/fiesta.jpg"></img>
+    
+        <div class="col-xs-12 col-md-6 col-lg-3 project">
+    <a href="http://dustrunnersauto.com">
+      <h3>Dust Runners Automotive Journal</h3>
+      <img src="img/DustRunnersProject2.jpg" alt="A screenshot of Dust Runners Automotive Journal"></img>
     </a>
-            <p>
-        Project 4 description goes in here. It will describe the purpose of the project
-        This description will also include any skills I learned from it, as well as other information.
+        <p>
+          This is my first website. I built this back in 2014 to learn more about SEO and creating content.
+          The site and all the content was built by me using Wordpress.
       </p>
     </div>
     

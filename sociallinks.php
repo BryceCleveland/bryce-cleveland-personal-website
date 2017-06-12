@@ -6,20 +6,16 @@
                 <div class="col-xs-12">
                     <ul class="list-inline banner-social-buttons">
                         <li>
-                            <a href="#" class="btn btn-default btn-lg">Github</a>
+                            <a href="https://github.com/BryceCleveland" class="btn btn-default btn-lg">Github</a>
                         </li>
 
                         <li>
-                            <a href="#" class="btn btn-default btn-lg">Linkedin</a>
+                            <a href="https://www.linkedin.com/in/bryce-cleveland/" class="btn btn-default btn-lg">Linkedin</a>
 
                         </li>
 
                         <li>
                             <a href="http://clevr.tech/blog/" class="btn btn-default btn-lg">Blog</a>
-                        </li>
-
-                        <li>
-                            <a href="about.php" class="btn btn-default btn-lg">About</a>
                         </li>
                     </ul>
                 </div>

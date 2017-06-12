@@ -8,7 +8,7 @@
     <meta name="author">
     
 
-    <title>Bryce Cleveland</title>
+
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/styling1_1.css" rel="stylesheet">
     <link rel="icon" href="favicon.ico">

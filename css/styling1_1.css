@@ -8,6 +8,7 @@ html, body {
 p {
 	font-family: 'Lato', sans-serif;
 	color: #3d3d3d;
+	font-size: 1.15em;
 }
 
 body {
@@ -117,10 +118,10 @@ section h3 {
 
  .parallax {
     /* The image used */
-    background-image: url('../img/parallax3.jpg');
+    background-image: url('../img/Background1.jpg');
 
     /* Full height */
-    height: 72%; 
+    height: 70%;
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -140,17 +141,20 @@ button {
 }
 
 .aboutme {
-	font-size: 17px;
+    font-size: 1.3em;
+    line-height: 2em !important;
 	margin-top: 3%;
 }
 
 .projectarea {
     margin-bottom: 8%;
     padding: 1.5%;
+    line-height: 1.5em;
+    font-size: 1.15em;
 }
 
-.projectarea a:hover  {
-
+.projectarea h3 {
+    text-align: center;
 }
 
 /* Social Link CSS */

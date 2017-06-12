@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <title>Click The Button</title>
 <link rel="stylesheet" href="css/ball.css" type="text/css" />
+<title>Bryce Cleveland - Crazy Clicker Project</title>
 </head>
 
 <body>
@@ -18,5 +19,5 @@
 
 </body>
 
-<script type="text/javascript" src="js/engine.js"></script>
+<script type="text/javascript" src="js/ballEngine.js"></script>
 </html>
